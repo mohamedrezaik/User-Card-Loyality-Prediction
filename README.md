@@ -1,4 +1,4 @@
-# User-Card-Loyality-Prediction
+# User-Card-Loyalty-Prediction
 
 ## Project and Data Description
 This project focuses on analyzing a bank card transaction and user (card) loyalty dataset provided by a bank in Brazil. The main goal is to solve data quality issues, perform statistical and regression analysis, and predict a loyalty score for each card id represented in the userscore.csv file.
